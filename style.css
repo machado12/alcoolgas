@@ -1,0 +1,39 @@
+body{
+	max-width: 100%;
+	background: #517cb4;
+	text-align: center;
+}
+
+h1{
+	font-size: 60px;
+	text-align: left;
+	text-align: center;
+	color: cornsilk;
+}
+
+input {
+	width: 147px;
+	height: 59px;
+	font-size: 25px;
+	text-align: center;
+	cursor: pointer;
+	color: black;
+	background: rgb(39, 240, 39);
+	border: none;
+}
+
+input.yellow {
+	background: yellow;
+	font-size: 25px;
+}
+
+input.orange {
+	background: orange;
+	font-size: 25px;
+	color: black;
+}
+
+img {
+	width: 600px;
+	height: 300px;
+}
