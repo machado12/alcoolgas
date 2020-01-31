@@ -9,4 +9,3 @@
 <img src="images/gasAlc3.png">
 <img src="images/gasAlc4.png">
 <img src="images/gasAlc5.png">
-<img src="images/gasAlc6.png">
